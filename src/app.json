@@ -1,0 +1,11 @@
+{
+    "expo":{
+        "sdkVersion":"25.0.0",
+        "android":{
+            "package":"com.BetIt.myapp",
+            "versionCode":1,
+            "permission":[],
+            "icon":"./public/betit-logo-light.svg"
+        }
+    }
+}
